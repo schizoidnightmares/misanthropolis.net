@@ -1,0 +1,21 @@
+# insert pages you want to appear in the footer below
+# e.g.
+# - title: Page
+#   url: /page-url/ (e.g. /terms/)
+#   target: _blank
+
+- title: Creator
+  url: https://schizoidnightmares.com/about/
+  target: _blank
+
+- title: Terms
+  url: https://schizoidnightmares.com/terms/
+  target: _blank
+
+- title: Disclaimers
+  url: https://schizoidnightmares.com/disclaimers/
+  target: _blank
+
+- title: Source
+  url: https://github.com/schizoidnightmares/misanthropolis.net
+  target: _blank

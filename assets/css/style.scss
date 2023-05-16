@@ -1,0 +1,17 @@
+---
+---
+// override theme defaults
+
+// colour theme
+// numbers in the comments below refer to their colour value in Material Design 3
+$color-highlight: #e3e2e6; // 90
+$color-highlight-bg: #77777a; // 50
+$color-link: #f2f0f4; // 95
+$color-primary: #c7c6ca; // 80
+$color-secondary: #ababaf; // 70
+$color-tertiary: #919094; // 60
+$color-border: #5e5e62; // 40
+$color-shade: #303033; // 20
+$color-bg: #1b1b1f; // 10
+
+@import "jekyll-theme-schizoid";
